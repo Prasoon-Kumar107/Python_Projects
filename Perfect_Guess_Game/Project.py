@@ -14,9 +14,9 @@ while True:
         else:
             print("Please guess a smaller number.")
             guess += 1
-        print(f"The number of turns you took to guess the number is {guess}. Thanks for playing...")
     except ValueError:
         print("Please enter the correct input number.")
-   
-    
+print(f"The number of turns you took to guess the number is {guess}. Thanks for playing...")
+
+
 
