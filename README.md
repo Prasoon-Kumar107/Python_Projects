@@ -1,3 +1,4 @@
+
 # 🐍 Python Mini Projects Collection
 
 This repository contains a collection of **beginner-friendly Python mini projects** built to strengthen core Python concepts such as logic building, user input handling, loops, conditionals, functions, and working with external libraries.
@@ -84,3 +85,6 @@ Prasoon Kumar
 Python Enthusiast | Learning by Building 🚀
 
 ⭐ Star the repo if you like it!
+=======
+# Python_Projects
+Here you can find some python projects.
